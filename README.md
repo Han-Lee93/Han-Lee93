@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Han-Lee93
-- 🌱 I am a data scientist looking to apply my skills into the industry role and further refine these skills in the process. Please refer to my repository for some example works. 
+- 🌱 I am a data scientist looking to apply my skills into the industry role and further refine these skills in the process. Please refer to my repository for some example works. Note. While these are graded assignments for an advanced graduate college course, some analyses were used in international conference presentations.
 - 📫 How to reach me ...
   Email: jonghan.lee1024@gmail.com
 
